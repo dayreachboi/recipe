@@ -1,0 +1,52 @@
+@media only screen and (max-width: 768px) {
+  body {
+    justify-content: center;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0;
+  }
+  .image > img {
+    width: 80%;
+    height: 180px;
+    margin-top: -50px;
+    border-radius: 0px;
+  }
+  .title h1 {
+    font-size: 35px;
+  }
+  .par {
+    font-size: 14px;
+    justify-content: center;
+    margin-right: 25px;
+  }
+  .table1 {
+    height: 150px;
+    width: 68%;
+    line-height: 0.3;
+  }
+  .table1 h3 {
+    font-size: 17px;
+  }
+  .table1 ul {
+    font-size: 15px;
+  }
+  .ingredients {
+    line-height: 0.5;
+    margin-right: 15px;
+  }
+  .instructions {
+    margin-right: 15px;
+    font-size: 17px;
+  }
+  .nutrition .par {
+    font-size: 16px;
+  }
+  .properties1 {
+    margin-left: 250px;
+  }
+  hr{
+    margin-left: 15px;
+    margin-right: 15px;
+  }
+
+}

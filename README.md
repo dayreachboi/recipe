@@ -1,2 +1,2 @@
 # recipe
-recipe project
+my first recipe project
